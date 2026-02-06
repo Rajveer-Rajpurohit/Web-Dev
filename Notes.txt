@@ -1,0 +1,24 @@
+There are two Types of Elements:-
+    1. Block Element :
+        A block element is something which occupies whole width even if not required.
+    2. Inline Element :
+        A Inline element is something which occupies only width Which is required.
+
+--> Div = It is considered as a block element as it takes whole line width
+--> Span = It is the inline substitute for div
+
+These Inline and block properties can be changed through display properties of css.
+
+Comments in html are written like this :- <!--.--> [The Dot represents the area in which the Comments can be written.]
+
+Attributes are specified within the starting tag of any element.
+
+Date = 6 feb 2026
+    ID AND CLASSES :-
+        Both of these are attributes to an element.
+        
+        --> Id is unique identification for any element. It must be unique to every element. One Element can have only 1 Id.
+        --> Class is also an attribute for any element. It is used when multiple elements needs to be classified under a common attribute.One element can have multiple classes mentioned with a SPACE between them. And Multiple Elements can have one common class.
+    In CSS:-
+        in css the id attribute is referred with a "." in starting and the class attribute is accessed through a "#" symbol in starting.
+        
